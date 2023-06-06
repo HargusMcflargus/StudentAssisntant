@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StudentAssisntant</string>
+    <string name="borrowedTitle">Borrowed Things</string>
+    <string name="tempName">Hargus Mcflargus</string>
+    <string name="tempsection">BSIS 2A</string>
+    <string name="sectionTitle">Section</string>
+    <string name="nameTitle">Name</string>
+    <string name="GWATitle">Recent G.W.A.</string>
+    <string name="tempGWA">1.25</string>
+    <string name="seemoreText">See More...</string>
+    <string name="amongOtherThing">Current Subjects</string>
+    <string name="StudentInfo">Student Information</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

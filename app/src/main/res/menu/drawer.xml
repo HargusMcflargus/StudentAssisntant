@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/homebuttonicon"
+            android:title="Home"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:icon="@drawable/calendaricon"
+            android:title="Schedule" />
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/calculatoricon"
+            android:title="Calculator" />
+        <item
+            android:id="@+id/nav_fourth_fragment"
+            android:icon="@drawable/settingicon"
+            android:title="Settings"/>
+    </group>
+</menu>
